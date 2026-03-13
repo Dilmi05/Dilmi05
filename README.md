@@ -1,10 +1,50 @@
-<h1 align="center">Hi 👋, I'm Amandha</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dilmi amandha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilmi amandha" height="30" width="40" /></a>
-<a href="https://fb.com/dilmi amandha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilmi amandha" height="30" width="40" /></a>
-<a href="https://instagram.com/dilmi_amandha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilmi_amandha" height="30" width="40" /></a>
-</p>
+# Hello 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## About Me
+Hello! I am a BICT undergraduate student at the Faculty of Technology, University of Ruhuna. I am passionate about learning programming and exploring the field of software development. 
+
+Currently, I am developing my knowledge in programming, object-oriented programming concepts, and software development through my academic studies and personal projects. I enjoy learning new technologies and improving my coding and problem-solving skills.
+
+This GitHub profile is where I share my university projects, programming practices, and experiments with different technologies. My goal is to become a professional software engineer and contribute to building useful software solutions in the future.
+
+---
+
+## 🎓 Education
+- BICT Undergraduate  
+- Faculty of Technology  
+- University of Ruhuna
+
+---
+
+## 💻 Skills
+- Programming
+- Problem Solving
+- Object-Oriented Programming
+
+---
+
+## 🛠 Technologies & Tools
+- Java
+- Git
+- GitHub
+- SQL
+- JavaFX
+
+---
+
+## 📚 Currently Learning
+- Advanced Java Programming  
+- Software Development Concepts  
+- Database Management  
+
+---
+
+## 🚀 Goals
+- Improve programming and software development skills  
+- Build useful software applications  
+- Become a professional software developer  
+
+---
+
+## 📫 Connect With Me
+You can explore my projects and learning progress on my GitHub profile.
