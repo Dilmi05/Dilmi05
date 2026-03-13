@@ -24,11 +24,13 @@ This GitHub profile is where I share my university projects, programming practic
 ---
 
 ## 🛠 Technologies & Tools
-- Java
-- Git
+- Java  
+- React  
+- SQL  
+- Database Management  
+- Git  
 - GitHub
-- SQL
-- JavaFX
+  
 
 ---
 
