@@ -50,5 +50,7 @@ This GitHub profile is where I share my university projects, programming practic
 
 ## 📫 Connect With Me
 Email: amandhadilmi@gmail.com
+
 LinkedIn: Dilmi Amandha
+
 GitHub: https://github.com/Dilmi05
